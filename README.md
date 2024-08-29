@@ -15,10 +15,7 @@ The objective of this repository is to present a comprehensive portfolio of cybe
 |-----------------------------------------------|----------------------------|
 |Burp suite | <a href="https://github.com/sharath-133/Web-Application-Penetration-Testing-with-Burp-Suite/tree/main">Web Application Penetration Testing with Burp Suite</a>|
 | SIEM-Splunk | <a href="https://github.com/sharath-133/Splunk-SIEM-Implementation-Security-Analytics/tree/main">Splunk SIEM Implementation & Security Analytics</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|Suricata        | <a href="https://github.com/sharath-133/Suricata-Intrusion-Detection-and-Prevention-System/tree/main">Suricata Intrusion Detection and Prevention System</a>|
 
 ## Tools
 
