@@ -41,7 +41,9 @@ The objective of this repository is to present a comprehensive portfolio of cybe
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<a href="https://www.credly.com/badges/02ccc6b3-4aeb-4577-82d9-19c3edb1d4e9" target="_blank">
+    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</a>
 <img src="https://img.shields.io/badge/-(ISC)²%20Certified%20in%20Cybersecurity-0076b4?style=for-the-badge&logo=ISC2&logoColor=white" />
 </div>
 
