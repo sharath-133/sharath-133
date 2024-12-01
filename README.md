@@ -13,6 +13,7 @@ The objective of this repository is to present a comprehensive portfolio of cybe
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+|Suricata        | <a href=https://github.com/sharath-133/SOC-Automation-Lab>SOC Automation Lab</a>|
 |Burp suite | <a href="https://github.com/sharath-133/Web-Application-Penetration-Testing-with-Burp-Suite/tree/main">Web Application Penetration Testing with Burp Suite</a>|
 | SIEM-Splunk | <a href="https://github.com/sharath-133/Splunk-SIEM-Implementation-Security-Analytics/tree/main">Splunk SIEM Implementation & Security Analytics</a>|
 |Suricata        | <a href="https://github.com/sharath-133/Suricata-Intrusion-Detection-and-Prevention-System/tree/main">Suricata Intrusion Detection and Prevention System</a>|
